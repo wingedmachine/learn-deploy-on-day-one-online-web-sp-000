@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#wheeler-pryor-card {
+ background-image: url("https://imgur.com/nVOdAoB.jpg");
+}
+
+#wheeler-pryor-cover {
+ background-image: url("https://imgur.com/l1s9XVN.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
